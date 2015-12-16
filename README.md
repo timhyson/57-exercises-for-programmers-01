@@ -6,5 +6,6 @@ So create a program that prompts for your name and prints a greeting using your 
 
 ###Example Output
 
-What is your name? Brian  
-Hello, Brian, nice to meet you!
+```What is your name? Brian```
+
+```Hello, Brian, nice to meet you!```
